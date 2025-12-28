@@ -37,7 +37,7 @@
 * **LinkedIn:** [Luís Teixeira](https://linkedin.com/in/luis-teixeira8)
 
 **Roberto Fernandes:**
-* **GitHub:** [luisteixeira8](https://github.com/roberto-007)
+* **GitHub:** [roberto-007](https://github.com/roberto-007)
 * **LinkedIn:** [Roberto Fernandes](https://linkedin.com/in/roberto-fernandes-21059b296)
 
 ---
