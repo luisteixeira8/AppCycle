@@ -20,16 +20,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Login Screen | Dashboard | Feature Screen |
-|:---:|:---:|:---:|
-| <img src="docs/login.png" width="200"/> | <img src="docs/home.png" width="200"/> | <img src="docs/feature.png" width="200"/> |
-
-*(Note: Add your screenshots to a `docs/` folder or update the links above)*
-
----
-
 ## 🛠️ Tech Stack
 
 * **Framework:** [Flutter](https://flutter.dev/) (Stable Channel)
